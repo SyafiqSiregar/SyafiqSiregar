@@ -8,7 +8,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on a **Tour & Travel Web App** and a **Smart Warehouse Management System**.
+- 🔭 I’m currently working on a **Retina CCTV** and a **Freelancer**.
 - 🌱 I’m currently focused on **Full-Stack Development** using **Java** & **React/TypeScript**.
 - 💡 I love creating interactive, responsive, and animated user interfaces.
 - 👯 I’m looking to collaborate on Open Source projects involving modern web technologies.
@@ -73,17 +73,6 @@
   </a>
 </div>
 
----
-
-### 🏆 GitHub Trophies:
-
-<div align="center">
-  <a href="https://github.com/SyafiqSiregar">
-    <img src="https://github-profile-trophy.vercel.app/?username=SyafiqSiregar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
